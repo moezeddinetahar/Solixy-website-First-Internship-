@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">&#x0A;<refactoring comment="Rename resource &apos;v.1/config.oho&apos; to &apos;config.php&apos;" description="Rename resource &apos;config.oho&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="config.oho" name="config.php" stamp="1703421950318" updateReferences="true"/>&#x0A;<refactoring comment="Rename resource &apos;v.1/home_header&apos; to &apos;home_header.php&apos;" description="Rename resource &apos;home_header&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="home_header" name="home_header.php" stamp="1703428358368" updateReferences="true"/>
+</session>
